@@ -20,12 +20,13 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/q1" />
+
         <Button
             android:id="@+id/btnRevealQ1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="@string/reveal"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:text="@string/reveal" />
 
     </LinearLayout>
     <LinearLayout
